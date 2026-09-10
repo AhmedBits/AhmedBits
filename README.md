@@ -39,7 +39,3 @@ Exploratory analysis of synthetic patient data focused on length of stay, demogr
 **SQL · SQLite · 55K+ healthcare records**
 
 SQL analysis of synthetic admission data examining demographics, clinical conditions, utilization, and billing.
-
-## Contact
-
- · 
