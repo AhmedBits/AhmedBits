@@ -41,3 +41,5 @@ Exploratory analysis of synthetic patient data focused on length of stay, demogr
 SQL analysis of synthetic admission data examining demographics, clinical conditions, utilization, and billing.
 
 ## Contact
+
+### [LinkedIn →](https://www.linkedin.com/in/ahmed-bits/)
