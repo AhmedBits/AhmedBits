@@ -42,4 +42,4 @@ SQL analysis of synthetic admission data examining demographics, clinical condit
 
 ## Contact
 
-### [LinkedIn →](https://www.linkedin.com/in/ahmed-bits/)
+[LinkedIn →](https://www.linkedin.com/in/ahmed-bits/)
